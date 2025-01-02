@@ -6,7 +6,7 @@ authors = ["rockey20230213 <rocket23>"]
 readme = "README.md"
 
 packages = [
-    {include = "voice-pipeline-agent"}
+    {include = "voice_pipeline_agent"}
 ]
 
 [tool.poetry.dependencies]
